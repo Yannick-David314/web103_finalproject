@@ -1,4 +1,4 @@
-#School.Event#
+## School.Event
 
 CodePath WEB103 Final Project
 
