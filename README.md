@@ -39,7 +39,6 @@ Frontend:
 
 Backend:
 
-## Features
 
 ## Features
 
