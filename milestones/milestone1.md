@@ -21,11 +21,11 @@ This unit, be sure to complete all tasks listed below. To complete a task, place
 
 ### 1. What went well during this unit?
 
-Brainstorming Project Ideas
+Brainstorming project ideas.
 
 ### 2. What were some challenges your group faced in this unit?
 
-We had challanges finding a time to meet 
+We had challanges finding a time to meet.
 
 ### 3. What additional support will you need in upcoming units as you continue to work on your final project?
 
