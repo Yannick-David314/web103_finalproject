@@ -3,9 +3,9 @@
 CodePath WEB103 Final Project
 
 Designed and developed by: 
-Yannick-David Udechukwu
-Grace Sodipo
-Adhik Adhikari
+Yannick-David Udechukwu,
+Grace Sodipo,
+Adhik Adhikari,
 Kavya Gautam
 
 
@@ -20,6 +20,7 @@ School.event is a centralized web app where students and school staff can discov
 The app is built with a React frontend and an Express backend, with data stored in a PostgreSQL database and deployed on Render. Events belong to the clubs or organizations that host them, users can RSVP to many events, and each event tracks everyone attending.
 
 Purpose
+
 Campus events are often scattered across different platforms, so students miss things they would have enjoyed, and clubs struggle to reach people outside their existing members. School.event solves this by giving the whole school one shared, up-to-date source for what’s happening. It helps:
 
 Students find events that match their interests and keep track of what they’ve RSVP’d to.
