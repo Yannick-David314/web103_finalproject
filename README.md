@@ -41,25 +41,55 @@ Backend:
 
 ## Features
 
-### [Name of Feature 1]
+## Features
 
-[short description goes here]
+### [ ] Browse School Events
 
-[gif goes here]
+Students can browse upcoming school events and see important information such as the event title, date, location, and description.
 
-### [Name of Feature 2]
+[insert gif here]
 
-[short description goes here]
+### [ ] Create Events
 
-[gif goes here]
+Students and alumni can create and post new events by providing a title, description, date, location, and category.
 
-### [Name of Feature 3]
+[insert gif here]
 
-[short description goes here]
+### [ ] Edit Events
 
-[gif goes here]
+Users can update the details of existing events, including changes to the date, time, location, or description.
 
-### [ADDITIONAL FEATURES GO HERE - ADD ALL FEATURES HERE IN THE FORMAT ABOVE; you will check these off and add gifs as you complete them]
+[insert gif here]
+
+### [ ] Delete Events
+
+Users can delete events that have been canceled or are no longer relevant.
+
+[insert gif here]
+
+### [ ] RSVP to Events
+
+Students can RSVP to events by selecting either "Going" or "Interested" to show their interest in attending.
+
+[insert gif here]
+
+### [ ] Filter Events by Category
+
+Users can filter events by categories such as academic, social, sports, and career to find events that interest them.
+
+[insert gif here]
+
+### [ ] Sort Events by Date
+
+Users can sort events by date to easily find upcoming events and plan their schedules.
+
+[insert gif here]
+
+### [ ] View Event Details
+
+Users can click on an event to open a dedicated page showing its full description, date, location, category, and RSVP options.
+
+[insert gif here]
 
 ## Installation Instructions
 
