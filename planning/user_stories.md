@@ -4,10 +4,18 @@ Reference the Writing User Stories final project guide in the course portal for 
 
 ## Outline User Roles
 
-[👉🏾👉🏾👉🏾 Include at least at least 1, but no more than 3, user roles.]
+1. Student (Attendee)
+2. Organizer (Club Execs, Student Organizer)
 
 ## Draft User Stories
 
-[👉🏾👉🏾👉🏾 Include at least at least 10 user stories in this format:]
-
-1. As a [user role], I want to [what], so that [why].
+1. As a student, I want to see all upcoming campus events in one place, so that I don’t miss things happening at my school.
+2. As a student, I want to open an event’s page to see its full details, so that I know when and where it is and what to expect.
+3. As a student, I want to RSVP as “Going” or “Interested” without leaving the page, so that I can respond quickly while browsing.
+4. As a student, I want to visit a club’s page, so that I can see all the events a group I like is hosting.
+5. As an organizer, I want to create an event with a title, description, time, location, and host club, so that students can find out about it.
+6. As an organizer, I want to be automatically marked as “Going” to events I create, so that I don’t have to RSVP to my own event.
+7. As an organizer, I want to delete an event, so that cancelled events don’t confuse students.
+8. As an organizer, I want the app to warn me if I enter invalid details, such as a date in the past or an end time before the start time, so that I don’t post an event with mistakes.
+9. As a student, I want to filter events by club and sort them by date, so that I can quickly find events that fit my interests and schedule.
+10. As a student, I want to see a clear, friendly message when something goes wrong, such as a missing event or a server error, so that I understand what happened and what to do next.
