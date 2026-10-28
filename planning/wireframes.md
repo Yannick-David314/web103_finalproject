@@ -5,10 +5,14 @@ Reference the Creating an Entity Relationship Diagram final project guide in the
 ## List of Pages
 
 [👉🏾👉🏾👉🏾 List the pages you expect to have in your app, with a ⭐ next to pages you have wireframed]
+Home Page⭐
+Event Page⭐
+Create Event Page⭐
+Edit Event Page⭐
 
-## Wireframe 1: [page title]
+## Wireframe 1: Home Page
 
-[👉🏾👉🏾👉🏾 include wireframe 1]
+
 
 ## Wireframe 2: [page title]
 
