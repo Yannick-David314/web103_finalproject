@@ -4,14 +4,20 @@ Reference the Creating an Entity Relationship Diagram final project guide in the
 
 ## Create the List of Tables
 
-[👉🏾👉🏾👉🏾 List each table in your diagram]
+The School.event database consists of four tables:
+
+1. **categories** — Stores event categories such as Academic, Social, Sports, and Career.
+2. **events** — Stores event details, including the title, description, location, date, image URL, and category.
+3. **students** — Stores student information, including their names and email addresses.
+4. **rsvps** — Connects students to events and stores their RSVP status ("Going" or "Interested").
+
+### Database Relationships
+
+- **One-to-Many:** One category can have multiple events, but each event belongs to one category.
+- **Many-to-Many:** Students can RSVP to multiple events, and each event can have multiple students. This relationship is managed through the `rsvps` table.
 
 ## Add the Entity Relationship Diagram
 
-[👉🏾👉🏾👉🏾 Include an image or images of the diagram below. You may also wish to use the following markdown syntax to outline each table, as per your preference.]
+The diagram below illustrates the database tables, their primary and foreign keys, and the relationships between them.
 
-| Column Name | Type | Description |
-|-------------|------|-------------|
-| id | integer | primary key |
-| name | text | name of the shoe model |
-| ... | ... | ... |
+![School.event Entity Relationship Diagram](./mermaid-diagram.png)
